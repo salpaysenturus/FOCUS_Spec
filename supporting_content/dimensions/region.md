@@ -1,5 +1,5 @@
-# Column: Region
-	
+# Column: Resource Region
+
 ## Example provider mappings
 
 Current column mappings found in available data sets:
