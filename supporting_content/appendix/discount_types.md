@@ -63,6 +63,6 @@ TBD
   * RESELLER_MARGIN - indicates the Reseller Program Discounts earned on every eligible line item.
   * SUBSCRIPTION_BENEFIT - credits earned by purchasing long-term subscriptions to services in exchange for discounts.
 
-* Where does spot instance usage-based discount fall? Should there be a **Usage-based discounts** type?
+* Where does spot instance usage-based discount fall under? Should there be a **Usage-based discounts** type?
 
-* Where does GCP's sustained usage discount fall? Maybe the same as spot instance, in which case, **Usage-based discounts**?
+* Where does GCP's sustained usage discount fall under? Maybe the same as spot instance, in which case, **Usage-based discounts**?
