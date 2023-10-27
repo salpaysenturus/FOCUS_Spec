@@ -3,11 +3,14 @@
 Providers offer various discounting schemes for their service offerings. These discounts typically fall into common types such as:
 
 * Commitment-based discounts
+* Tier-based discounts
 * Negotiated discounts
 * Promotional discounts
 * Partnership-based discounts
 
 ## Commitment-based discounts
+
+## Tier-based discounts
 
 ## Negotiated discounts
 
@@ -22,4 +25,20 @@ TBD
 
 # Discussion / Scratch space
 
-* TBD
+* AWS discount types include:
+ * DiscountedUsage - discounts covered by Reserved Instances
+ * SavingsPlanCoveredUsage - discounts covered by SavingsPlans
+ * EdpDiscount - Enterprise Discount Program
+ * SppDiscount - Solutions Provider Program
+ * RiVolumeDiscount
+ * BundledDiscount - discounted usage on a specific product/service based on the usage of another product/service. https://aws.amazon.com/blogs/aws-cloud-financial-management/bundled-discounts-in-aws-cost-and-usage-report/
+
+* GCP discount types include:
+ * DISCOUNT - credits earned after a contractual spending threshold is reached.
+ * COMMITTED_USAGE_DISCOUNT - resource-based commitment discounts.
+ * COMMITTED_USAGE_DISCOUNT_DOLLAR_BASE - Spend-based commitment discounts.
+ * SUSTAINED_USAGE_DISCOUNT - automatic discount earned for prolonged usage.
+ * FREE_TIER - free resource usage up to specified limits.
+ * PROMOTION - includes free tial, marketing campaign credits, or other grants to use GCP.
+ * RESELLER_MARGIN - indicates the Reseller Program Discounts earned on every eligible line item.
+ * SUBSCRIPTION_BENEFIT - credits earned by purchasing long-term subscriptions to services in exchange for discounts.
