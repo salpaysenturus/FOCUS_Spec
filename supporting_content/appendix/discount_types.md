@@ -10,13 +10,28 @@ Providers offer various discounting schemes for their service offerings. These d
 
 ## Commitment-based discounts
 
+Notes:
+
+* Usage-based commitment discounts
+* Spend-based commitment discounts
+
 ## Tier-based discounts
+
+* RI Volume Discounts?
 
 ## Negotiated discounts
 
+TBD
+
 ## Promotional discounts
 
+* Free Trial
+
 ## Partnership-based discounts
+
+* Private Rate Discounts
+* Enterprise Discount Program discounts
+* RESELLER_MARGIN
 
 
 # Links to documentation
