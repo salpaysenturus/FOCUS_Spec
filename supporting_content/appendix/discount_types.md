@@ -30,7 +30,8 @@ TBD
 ## Partnership-based discounts
 
 * Private Rate Discounts
-* Enterprise Discount Program discounts
+* Enterprise Discount Program
+* Solution Provider Program
 * RESELLER_MARGIN
 
 
