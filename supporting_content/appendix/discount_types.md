@@ -14,14 +14,15 @@ Providers offer various discounting schemes for their service offerings. These d
 
 ## Negotiated discounts
 
-TBD
-
 ## Promotional discounts
 
 ## Partnership-based discounts
 
 
 # Links to documentation
+
+* AWS bundled discounts - https://aws.amazon.com/blogs/aws-cloud-financial-management/bundled-discounts-in-aws-cost-and-usage-report/
+* GCP credit types - https://cloud.google.com/billing/docs/how-to/export-data-bigquery-tables/standard-usage#standard-usage-cost-data-schema
 
 # Discussion / Scratch space
 
@@ -31,7 +32,7 @@ TBD
  * EdpDiscount - Enterprise Discount Program
  * SppDiscount - Solutions Provider Program
  * RiVolumeDiscount
- * BundledDiscount - discounted usage on a specific product/service based on the usage of another product/service. https://aws.amazon.com/blogs/aws-cloud-financial-management/bundled-discounts-in-aws-cost-and-usage-report/
+ * BundledDiscount - discounted usage on a specific product/service based on the usage of another product/service.
 
 * GCP discount types include:
  * DISCOUNT - credits earned after a contractual spending threshold is reached.
