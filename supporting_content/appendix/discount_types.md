@@ -21,8 +21,11 @@ Providers offer various discounting schemes for their service offerings. These d
 
 # Links to documentation
 
-* AWS bundled discounts - https://aws.amazon.com/blogs/aws-cloud-financial-management/bundled-discounts-in-aws-cost-and-usage-report/
-* GCP credit types - https://cloud.google.com/billing/docs/how-to/export-data-bigquery-tables/standard-usage#standard-usage-cost-data-schema
+* AWS
+  * Bundled discounts - https://aws.amazon.com/blogs/aws-cloud-financial-management/bundled-discounts-in-aws-cost-and-usage-report/
+
+* GCP
+  * Credit types - https://cloud.google.com/billing/docs/how-to/export-data-bigquery-tables/standard-usage#standard-usage-cost-data-schema
 
 # Discussion / Scratch space
 
