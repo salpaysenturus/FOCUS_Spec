@@ -38,9 +38,15 @@ TBD
 # Links to documentation
 
 * AWS
+  * Reserved Instances - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html
+  * Savings Plans - https://docs.aws.amazon.com/savingsplans/latest/userguide/what-is-savings-plans.html
   * Bundled discounts - https://aws.amazon.com/blogs/aws-cloud-financial-management/bundled-discounts-in-aws-cost-and-usage-report/
 
 * GCP
+  * Committed use discounts - https://cloud.google.com/compute/docs/instances/committed-use-discounts-overview
+  * Resource-based CUDs - https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts
+  * Spend-based CUDs - https://cloud.google.com/docs/cuds-spend-based
+  * Sustained use discounts - https://cloud.google.com/compute/docs/sustained-use-discounts
   * Credit types - https://cloud.google.com/billing/docs/how-to/export-data-bigquery-tables/standard-usage#standard-usage-cost-data-schema
 
 * Microsoft
