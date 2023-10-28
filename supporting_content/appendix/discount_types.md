@@ -43,6 +43,10 @@ TBD
 * GCP
   * Credit types - https://cloud.google.com/billing/docs/how-to/export-data-bigquery-tables/standard-usage#standard-usage-cost-data-schema
 
+* Microsoft
+  * Reservations - https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
+  * Savings Plans - https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/savings-plan-compute-overview
+
 # Discussion / Scratch space
 
 * AWS discount types include:
@@ -66,3 +70,9 @@ TBD
 * Where does spot instance usage-based discount fall under? Should there be a **Usage-based discounts** type?
 
 * Where does GCP's sustained usage discount fall under? Maybe the same as spot instance, in which case, **Usage-based discounts**?
+
+* Microsoft discounts include:
+  * Azure consumption discounts
+  * Reservations and Savings Plans
+  * CSP software subscriptions
+  * Office 365, Dynamics 365, Microsoft 365 discounts
