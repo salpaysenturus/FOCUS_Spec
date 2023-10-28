@@ -53,6 +53,7 @@ TBD
   * Reservations - https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
   * Savings Plans - https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/savings-plan-compute-overview
   * Azure Hybrid Benefit - https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#overview
+  * Azure Dev/Test Pricing - https://azure.microsoft.com/en-us/pricing/offers/dev-test/
 
 # Discussion / Scratch space
 
@@ -84,3 +85,4 @@ TBD
   * CSP software subscriptions
   * Office 365, Dynamics 365, Microsoft 365 discounts
   * Azure Hybrid Benefit
+  * Azure Dev/Test Pricing
